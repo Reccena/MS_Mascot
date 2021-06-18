@@ -2,6 +2,7 @@
 //0, 1024, 512, 768, 256;
 //Control sketch for Maskerspace Mascot
 //test comment
+//Eric test comment
 
 String DATA;
 String servoHead;
